@@ -42,11 +42,11 @@ const List = observer(() => {
           <table className="styled-table">
             <thead>
               <tr>
-                <th className="cell ticker">Pare</th>
-                <th className="cell">Ask</th>
-                <th className="cell bid">Bid</th>
-                <th className="cell">24h Diff</th>
-                <th className="cell">Rate</th>
+                <th className="cell ticker">PARE</th>
+                <th className="cell">ASK</th>
+                <th className="cell bid">BID</th>
+                <th className="cell">24H DIFF</th>
+                <th className="cell">RATE</th>
               </tr>
             </thead>
             <tbody>
